@@ -27,8 +27,6 @@ A API é pública e não exige token para os endpoints utilizados neste projeto.
 - `index.html`: estrutura da página.
 - `css/style.css`: estilos e responsividade.
 - `js/script.js`: integração com API e criação dos cards.
-- `parte_teorica.pdf`: explicação teórica do projeto.
-- `roteiro_pitch.txt`: roteiro sugerido para o vídeo de apresentação.
 
 ## Publicação no GitHub Pages
 Crie um repositório público, envie os arquivos desta pasta e, em Settings > Pages, selecione a branch `main` e a pasta `/ (root)`. Salve e aguarde a publicação.
